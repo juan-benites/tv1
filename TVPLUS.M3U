@@ -1,0 +1,156 @@
+#EXTM3U
+
+#EXTINF:-1 LATINA
+https://livev2-latina-mdstrm.secure2.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+#EXTINF:-1 AMERICA TV
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=383B1yG86CaN08rX7Eto9X3PT7RXA5XK&sid=w7S9NUHT7ijYtxmNbwlfuJdL4CuXWtlf&pid=mYRSFkEZwhKnCWSKHEtNEyhuupoGy6Px&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=U8MxwHcYCqsZfvnwKjss7u2sQfXp1KAaQ3svQl43oL1xv0bCDOLVnIoktqzQlfWaSl2GodFLtVj&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1667586915951&ot=vtZ6NjzvVdUlG67RQ-Cqfg&proto=https&pz=us
+#EXTINF:-1 ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+#EXTINF:-1 TV PERU
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="TDT",LA 1 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4785
+
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="TDT",LA 2 HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/4789
+
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="TDT",ANTENA 3 HD 1080P
+
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD 1080P" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TDT",CUATRO HD 1080P
+
+
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="TDT",TELECINCO HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4797
+
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="TDT",LA SEXTA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4800
+
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="MOVISTAR SERIES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="MOVISTAR",MOVISTAR SERIES HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4832
+
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="MOVISTAR SERIES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR",MOVISTAR SERIES 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4835
+
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="MOVISTAR LA RESISTENCIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="MOVISTAR",MOVISTAR LA RESISTENCIA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4838
+
+
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="MOVISTAR ACCION HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="MOVISTAR",MOVISTAR ACCION HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4843
+
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="MOVISTAR ESTRENOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR",MOVISTAR ESTRENOS HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4846
+
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="MOVISTAR ESTRENOS 2 HD 1080P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="MOVISTAR",MOVISTAR ESTRENOS 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4849
+
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4852
+
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="MOVISTAR COMEDIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR",MOVISTAR COMEDIA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4855
+
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="MOVISTAR DRAMA 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR",MOVISTAR DRAMA 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4858
+
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="MOVISTAR CINE Ñ HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",MOVISTAR CINE Ñ HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4861
+
+
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR",FOX HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4864
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="MOVISTAR",AXN HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4867
+
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR",AXN WHITE HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4870
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR",TNT HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4873
+
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="MOVISTAR",COMEDY CENTRAL HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4876
+
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR",CALLE 13 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4879
+
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="MOVISTAR",COSMO HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4882
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR",AMC HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4885
+
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR",SYFY HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4888
+
+
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="MOVISTAR",PARAMOUNT CHANNEL
+http://line.danoli101.com:8080/Amanda/Amanda/4894
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/2560px-Logo-bom.svg.png" group-title="MOVISTAR",BOM CINE HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/4895
+
+#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-name="MOVISTAR DEPORTES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="DEPORTES",MOVISTAR DEPORTES HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4927
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4992
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 3 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4994
+
+#EXTINF:-1 tvg-id="" tvg-name="M.DEPORTES 4 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",M.DEPORTES 4 HD 1080
+http://line.danoli101.com:8080/Amanda/Amanda/11495
+
+#EXTINF:-1 tvg-id="" tvg-name="M.DEPORTES 5 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",M.DEPORTES 5 HD 1080
+http://line.danoli101.com:8080/Amanda/Amanda/11496
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 6 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4998
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 7 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4999
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DREAMWORKS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="INFANTIL",DREAMWORKS HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5000
+
+
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="INFANTIL",DISNEY JR HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5010
+
+#EXTINF:-1 tvg-id="NICK JR FHD" tvg-name="NICK JR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="INFANTIL",NICK JR HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5015
+
+#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="NICKELODEON HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="INFANTIL",NICKELODEON HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5017
+
+#EXTINF:-1 tvg-id="disney.es" tvg-name="DISNEY CHANNEL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="INFANTIL",DISNEY CHANNEL HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5020
+
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="NATIONAL GEOGRAPHIC HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5182
+
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="ENTRETENIMIENTO",NAT GEO WILD HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5185
+
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="HISTORIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="ENTRETENIMIENTO",HISTORIA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5188
+
+#EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="ENTRETENIMIENTO",NEGOCIOS TV SD
+http://line.danoli101.com:8080/Amanda/Amanda/5191
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="DISCOVERY MAX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="ENTRETENIMIENTO",DISCOVERY MAX SD
+http://line.danoli101.com:8080/Amanda/Amanda/5192
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="ENTRETENIMIENTO",DISCOVERY CHANNEL HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5193
+
+
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="CRIMEN+INVESTIGACION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="ENTRETENIMIENTO",CRIMEN+INVESTIGACION SD
+http://line.danoli101.com:8080/Amanda/Amanda/5214
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="CANAL COCINA HD 1080P" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="ENTRETENIMIENTO",CANAL COCINA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5215
+
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="CANAL DECASA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="ENTRETENIMIENTO",CANAL DECASA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5217
+
+
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="EL TORO TV HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="ENTRETENIMIENTO",EL TORO TV HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5221
